@@ -18,7 +18,7 @@ Activate virtual environment for windows.
 ```
 Project Git URL.
 ```
-    git clone https://github.com/Synkrama-Technologies/hype-backend.git
+    https://github.com/Rajraut7719/SIGNUP-OTP-WITH-MOBILENO.git
 ```
 Install requirements .txt
 ```
